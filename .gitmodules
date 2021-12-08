@@ -1,6 +1,0 @@
-[submodule "envs/hanabi/hanabi"]
-	path = envs/hanabi/hanabi
-	url = https://github.com/deepmind/hanabi-learning-environment.git
-[submodule "garage"]
-	path = garage
-	url = https://github.com/rlworkgroup/garage.git
