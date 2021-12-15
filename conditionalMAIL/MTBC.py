@@ -156,7 +156,7 @@ class MTBC(RLAlgorithm):
 
         for minibatch in minibatches:
             observations = np_to_torch(batch.observations[minibatch])
-            print(len(observations))
+            #print(len(observations))
             actions = np_to_torch(batch.actions[minibatch])
             self._optimizer.zero_grad()
             loss = self._compute_loss(observations, actions)
