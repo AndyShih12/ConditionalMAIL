@@ -1,0 +1,15 @@
+output*/*
+plots/*
+trajectories/*
+data/.ipynb*
+tmp/*
+*__pycache__*
+*egg-info*
+*.jupyter*
+*.ipynb*
+ngrok.py
+garage/
+envs/hanabi/hanabi-learning-environment/
+envs/overcooked/human_aware_rl/
+envs/overcooked/overcooked_ai/
+envs/overcooked/overcooked-flask/
