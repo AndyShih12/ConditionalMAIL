@@ -1,3 +1,22 @@
+This repository contains code for the paper:
+
+[Conditional Imitation Learning for Multi-Agent Games](https://arxiv.org/abs/2201.01448)
+
+```
+"Conditional Imitation Learning for Multi-Agent Games"
+Andy Shih, Stefano Ermon, Dorsa Sadigh
+17th ACM/IEEE International Conference on Human-Robot Interaction (HRI 2022)
+
+@inproceedings{ShihEShri22,
+  author    = {Andy Shih and Stefano Ermon and Dorsa Sadigh},
+  title     = {Conditional Imitation Learning for Multi-Agent Games},
+  booktitle = {17th ACM/IEEE International Conference on Human-Robot Interaction (HRI)},
+  month     = {march},
+  year      = {2022},
+  keywords  = {conference}
+}
+```
+
 ## Installation
 
 ```
